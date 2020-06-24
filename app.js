@@ -622,15 +622,11 @@
 
 
 
-     //======================\\
-    //---->>> Task # 12 <<<----\\
-   //==========================\\
-
-
-
 
                              //Chapter # 31-34 End\\
 //-------------------------------------------------------------------------------\\
+
+
 
 
 
@@ -644,7 +640,212 @@
    //==========================\\
 
 
+// function date_time(){
+//     var today = new Date()
+//     document.write("Current date and time : "+today)
+// }
+// date_time()
 
+
+
+
+
+     //======================\\
+    //---->>> Task # 2 <<<----\\
+   //==========================\\
+
+
+// var FirstName = prompt("Enter first Name");
+// var LastName = prompt("Enter Last Name");
+
+// function FullName(greeting){
+//     alert(greeting)
+// }
+
+// FullName(FirstName + " " +  LastName)
+
+
+
+
+   
+     //======================\\
+    //---->>> Task # 3 <<<----\\
+   //==========================\\
+
+
+// var first_num = +prompt("Enter first number");
+// var sec_num = +prompt("Enter second number")
+
+// function add(a , b){
+//     var z = a + b;
+//     alert(z)
+// }
+
+// add(first_num , sec_num)
+
+
+
+   
+     //======================\\
+    //---->>> Task # 4 <<<----\\
+   //==========================\\
+
+
+
+// var first_num = +prompt("Enter first number");
+// var operator = prompt("Enter operator")
+// var sec_num = +prompt("Enter second number")
+
+// function add(a , b , c){
+//     if(b === "+"){
+//         var x = a + c
+//         alert(x)
+//     }
+//     if(b === "-"){
+//         var x = a - c
+//         alert(x)
+//     }
+//     if(b === "*"){
+//         var x = a * c
+//         alert(x)
+//     }
+//     if(b === "/"){
+//         var x = a / c
+//         alert(x)
+//     }
+//     if(b === "%"){
+//         var x = (a / c)* 100
+//         alert(x)
+//     }
+// }
+
+// add(first_num , operator , sec_num)
+
+
+
+   
+     //======================\\
+    //---->>> Task # 5 <<<----\\
+   //==========================\\
+
+
+// function sumOfSquares(num) {
+
+// for (var i=0; i <= num; i++){
+//     var sum=0;
+//     var i = i*i;
+//     sum = i;
+// }
+//     document.write("The sum of squares for numbers up to and including " +num+ " is " +sum )
+// }
+// var num = parseInt(prompt("Enter a number:"));
+// sumOfSquares(num);
+
+
+
+   
+     //======================\\
+    //---->>> Task # 6 <<<----\\
+   //==========================\\
+
+
+   // function factorial(n){
+   //    let answer = 1;
+   //    if (n == 0 || n == 1){
+   //      return answer;
+   //    }else{
+   //      for(var i = n; i >= 1; i--){
+   //        answer = answer * i;
+   //      }
+   //      return answer;
+   //    }  
+   //  }
+   //  let n = 3;
+   //  answer = factorial(n)
+   //  document.write("The factorial of " + n + " is " + answer);
+
+
+
+   
+     //======================\\
+    //---->>> Task # 7 <<<----\\
+   //==========================\\
+
+
+// var Start = prompt("Enter starting number");
+// var End = prompt("Enter ending number");
+
+// for (var i = Start; i <= End; i++){
+//    document.write(i+"<br>")
+// }
+
+
+
+   
+     //======================\\
+    //---->>> Task # 8 <<<----\\
+   //==========================\\
+
+
+// var base = prompt("Enter base");
+// var Perp = prompt("Enter Perpandicular");
+
+// function calcHypotenus(base,  perp) {
+//    return Math.sqrt(base*base  + perp*perp) ;
+// }
+
+// document.write("Hypothesis : "+calcHypotenus(base , Perp))
+
+
+   
+     //======================\\
+    //---->>> Task # 9 <<<----\\
+   //==========================\\
+
+
+// var width = prompt("Enter a width");
+// var height = prompt("Enter a height");
+
+// function Area(width , height){
+//    var A = width*height;
+//    return(A);
+// }
+
+// document.write("Area : "+Area(width , height))
+
+
+   
+     //=======================\\
+    //---->>> Task # 10 <<<----\\
+   //===========================\\
+
+
+
+   
+     //=======================\\
+    //---->>> Task # 11 <<<----\\
+   //===========================\\
+
+
+
+   
+     //=======================\\
+    //---->>> Task # 12 <<<----\\
+   //===========================\\
+
+
+
+   
+     //=======================\\
+    //---->>> Task # 13 <<<----\\
+   //===========================\\
+
+
+
+   
+     //=======================\\
+    //---->>> Task # 14 <<<----\\
+   //===========================\\
 
    
                              //Chapter # 35-348End\\
