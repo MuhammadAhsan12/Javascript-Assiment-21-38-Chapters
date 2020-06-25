@@ -820,6 +820,23 @@
    //===========================\\
 
 
+// var word = prompt("Enter your word");
+
+// function palandirome(){
+//    var check = " "
+//    for (var i = word.length-1; i >= 0; i--){
+//       check += word[i]
+//    }
+//    if (word === check){
+//       document.write(word + " ia palindrome word");
+//    }
+// }
+
+// palandirome();
+
+
+
+
 
    
      //=======================\\
