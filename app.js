@@ -838,10 +838,17 @@
 
 
 
-   
      //=======================\\
     //---->>> Task # 11 <<<----\\
    //===========================\\
+
+
+// function capitalize_Words(str)
+// {
+//  return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+// }
+// document.write(capitalize_Words(prompt('Enter yor words')));
+
 
 
 
@@ -851,8 +858,22 @@
    //===========================\\
 
 
+// var sentence = prompt("Enter a sentence")
+// var parts = sentence.split(' ');
+// var longestIndex = 0;
+// var longestWord = 0;
 
-   
+// for(var i=0; i < parts.length; i++){
+//     if(parts[i].length > longestWord){
+//         longestWord = parts[i].length;
+//         longestIndex = i;
+//     }
+// }
+// alert("longest word is " + parts[longestIndex] + " : " + longestWord + " characters");
+
+
+
+
      //=======================\\
     //---->>> Task # 13 <<<----\\
    //===========================\\
