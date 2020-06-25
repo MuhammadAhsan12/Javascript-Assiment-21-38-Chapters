@@ -885,6 +885,24 @@
     //---->>> Task # 14 <<<----\\
    //===========================\\
 
+
+// var pi = 3.14;
+// var radius = prompt("Enter a radius");
+
+// function calArea(radius){
+//    var calar = pi*(Math.pow(radius,2));
+//    return calar;
+// }
+
+// function calCirdumference(radius){
+//    var cilcir = 2*pi*radius;
+//    return cilcir;
+// }
+
+// alert("circumference of circle is : "+calCirdumference(radius));
+// alert("Area of circle is : "+calArea(radius));
+
+
    
-                             //Chapter # 35-348End\\
+                             //Chapter # 35-38 End\\
 //-------------------------------------------------------------------------------\\
